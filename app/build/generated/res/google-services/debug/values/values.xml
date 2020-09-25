@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">829269488206-vr5he8u23vm6c8h8hlaa0soieh82v91u.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://connect-beauty-703de.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">829269488206</string>
+    <string name="google_api_key" translatable="false">AIzaSyBddtReZYDgxVSkxnfHmcQ219cYAYupPA8</string>
+    <string name="google_app_id" translatable="false">1:829269488206:android:2027805fdd4f8850f1891f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBddtReZYDgxVSkxnfHmcQ219cYAYupPA8</string>
+    <string name="google_storage_bucket" translatable="false">connect-beauty-703de.appspot.com</string>
+    <string name="project_id" translatable="false">connect-beauty-703de</string>
+</resources>

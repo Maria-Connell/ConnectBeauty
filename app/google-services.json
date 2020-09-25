@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "829269488206",
+    "firebase_url": "https://connect-beauty-703de.firebaseio.com",
+    "project_id": "connect-beauty-703de",
+    "storage_bucket": "connect-beauty-703de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829269488206:android:2027805fdd4f8850f1891f",
+        "android_client_info": {
+          "package_name": "com.projeto.connectbeauty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829269488206-7ths7gramuencpvli5ug3o18f7oau9tv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.projeto.connectbeauty",
+            "certificate_hash": "2981ccce65fe1799c00c0d511cdb636e4ddcf76d"
+          }
+        },
+        {
+          "client_id": "829269488206-vr5he8u23vm6c8h8hlaa0soieh82v91u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBddtReZYDgxVSkxnfHmcQ219cYAYupPA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829269488206-vr5he8u23vm6c8h8hlaa0soieh82v91u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
